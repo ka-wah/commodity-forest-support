@@ -1,0 +1,9 @@
+{'energy': ['flt1_buy', 'mom1', 'mva1_3', 'mva3_6', 'mva6_9', 'mva9_12', 'osc12_5', 'osc6_5', 'osc9_5'],
+'non-energy': ['flt1_buy', 'flt6_buy', 'mom1', 'mva1_3', 'mva3_6', 'mva6_9', 'osc12_5', 'osc6_5'],
+'precious-metals': ['sup3_buy', 'mom12', 'mom3', 'mva1_6', 'mva3_12', 'mva3_6', 'mva6_12', 'mva6_9', 'mva9_12', 'osc12_5', 'osc3_5', 'osc6_5', 'osc9_5'],
+'food': ['flt1_buy', 'mom1', 'mva1_3', 'mva1_6', 'mva3_6', 'mva6_12', 'mva6_9', 'osc12_5', 'osc6_5', 'osc9_5'],
+'beverages': ['flt1_buy', 'mom12', 'mom6', 'mva1_3', 'mva3_6', 'mva3_9', 'mva6_12', 'mva6_9', 'mva9_12', 'osc12_5', 'osc6_5', 'osc9_5'],
+'raw-materials': ['sup3_sell', 'flt1_buy', 'flt3_buy', 'mom1', 'mva1_3', 'mva6_12', 'mva6_9', 'osc12_5', 'osc6_5', 'osc9_5'],
+'metals-minerals': ['sup12_sell', 'flt12_buy', 'mom3', 'mom6', 'mva1_3', 'mva1_6', 'mva3_6', 'mva3_9', 'mva9_12', 'osc12_5', 'osc6_5', 'osc9_5'],
+'agriculture': ['sup3_buy', 'sup3_sell', 'flt1_buy', 'flt3_buy', 'flt3_sell', 'mom1', 'mom12', 'mom3', 'mva1_3', 'mva6_9', 'mva9_12', 'osc12_5', 'osc6_5', 'osc9_5']
+}
